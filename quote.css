@@ -1,0 +1,31 @@
+p{
+    font-size:50px;color:white;background-color:green;text-align:center;
+}
+
+body {background-color:gray;
+    background-image:url("images/farm.jpg");
+    background-position:center;
+
+}
+
+a {color:blue;background-color:yellow;text-align:center;}
+
+button{
+    background-color: yellow;
+    border: solid;
+    color: black;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration:overline ;
+    display: inline-block;
+    font-size: 40px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: green;
+    color: white;}
+    
+
+    
